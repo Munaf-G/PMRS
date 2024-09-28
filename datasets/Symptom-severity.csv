@@ -30,7 +30,10 @@ breathlessness,4
 sweating,3
 dehydration,4
 indigestion,5
+<<<<<<< HEAD
 headache,3
+=======
+>>>>>>> 27c48a8 (Initial commit)
 yellowish_skin,3
 dark_urine,4
 nausea,5

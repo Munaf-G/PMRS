@@ -129,6 +129,7 @@
 127,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 128,Cervical spondylosis, weakness_in_limbs, neck_pain, dizziness, loss_of_balance
 129,Cervical spondylosis, back_pain, neck_pain, dizziness, loss_of_balance
+<<<<<<< HEAD
 130,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 131,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
 132,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
@@ -139,6 +140,8 @@
 137,Paralysis (brain hemorrhage), headache, weakness_of_one_body_side, altered_sensorium,
 138,Paralysis (brain hemorrhage), vomiting, weakness_of_one_body_side, altered_sensorium,
 139,Paralysis (brain hemorrhage), vomiting, headache, altered_sensorium,
+=======
+>>>>>>> 27c48a8 (Initial commit)
 140,Jaundice,itching, vomiting, fatigue, weight_loss
 141,Jaundice,itching, vomiting, fatigue, weight_loss
 142,Jaundice, vomiting, fatigue, weight_loss, high_fever
