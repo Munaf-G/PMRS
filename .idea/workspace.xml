@@ -4,48 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd39e7d2-1255-450a-bd68-cfc5950abec3" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/Symptom-severity.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/Training.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/diets.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/medications.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/precautions_df.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/symtoms_df.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/workout_df.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Medicine Recommendation System.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/svc.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/health.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/developer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/Symptom-severity.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/Symptom-severity.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/Training.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/Training.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/symtoms_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/symtoms_df.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Medicine Recommendation System.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Medicine Recommendation System.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
->>>>>>> 27c48a8 (Initial commit)
-    </list>
+    <list default="true" id="bd39e7d2-1255-450a-bd68-cfc5950abec3" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -74,11 +40,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-<<<<<<< HEAD
-    &quot;last_opened_file_path&quot;: &quot;D:/munaf/pythonProject&quot;
-=======
     &quot;last_opened_file_path&quot;: &quot;D:/PMRS/pythonProject&quot;
->>>>>>> 27c48a8 (Initial commit)
   }
 }</component>
   <component name="RunManager">
@@ -126,6 +88,23 @@
       <option name="presentableId" value="Default" />
       <updated>1727175702998</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1733586687952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733586687952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1733586703238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733586703238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,16 +124,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-<<<<<<< HEAD
-          <line>61</line>
-=======
           <line>62</line>
->>>>>>> 27c48a8 (Initial commit)
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
