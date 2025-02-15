@@ -9,11 +9,7 @@ app = Flask(__name__)
 
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 27c48a8 (Initial commit)
-# load databasedataset===================================
+# load dataset===================================
 sym_des = pd.read_csv("datasets/symtoms_df.csv")
 precautions = pd.read_csv("datasets/precautions_df.csv")
 workout = pd.read_csv("datasets/workout_df.csv")
